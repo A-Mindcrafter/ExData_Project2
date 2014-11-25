@@ -1,0 +1,7 @@
+"city" "EmissionsChanges" "Time"
+"1" "BaltimoreCity" -212.511178800651 "1999-2002"
+"2" "BaltimoreCity" -3.87844131345713 "2002-2005"
+"3" "BaltimoreCity" -42.1549224934493 "2005-2008"
+"4" "LosAngelesCounty" 342.5901979658 "1999-2002"
+"5" "LosAngelesCounty" 327.704727945455 "2002-2005"
+"6" "LosAngelesCounty" -500.093925911256 "2005-2008"

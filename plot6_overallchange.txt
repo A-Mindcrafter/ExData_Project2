@@ -1,0 +1,3 @@
+"city" "OverallChanges"
+"1" "BaltimoreCity" -258.544542607557
+"2" "LosAngelesCounty" 170.201
